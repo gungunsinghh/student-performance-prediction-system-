@@ -59,7 +59,7 @@ The dataset contains information about students who qualified for a medical entr
 - Mother's Occupation
 
  🔄 Machine Learning Workflow
-
+```
 Dataset
    ↓
 Data Loading
@@ -89,6 +89,7 @@ Model Evaluation
 Model Serialization using Joblib
    ↓
 Streamlit Application
+```
 
  ##Author 
  Gungun
